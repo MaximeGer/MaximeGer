@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zealyy
+- 👋 Hi, I’m Maxime
 
 <!---
-Zealyy/Zealyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MaximeGer/MaximeGer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
